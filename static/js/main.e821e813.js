@@ -19962,7 +19962,7 @@
       };
       var la = n(8023),
         sa = n.n(la);
-      const ua = "https://github.com/Abhiramgopi1.png";
+      const ua = n.p + "https://github.com/Abhiramgopi1.png";
       var ca;
       const da = Yt.div(
           ca || (ca = o(["\n    width:600px;\n    height: 500px;\n"]))
